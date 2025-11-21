@@ -10,7 +10,7 @@ In the IBM Watson Studio, there is a large collaborative community ecosystem of 
 
 For this project I am required to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles that I think they will like. Below is an example what the IBM Watson Studio platform looks like, and how the interactions are collected.
 
-![IBM Watson Studio Dashboard](assets/dashboard.png)
+![IBM Watson Studio Dashboard](dashboard.png)
 
 Though the above dashboard is just showing the newest articles, we can imagine having a recommendation board available here that shows the articles that are most pertinent to a specific user.
 
